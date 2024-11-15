@@ -11,3 +11,4 @@ class FriendList(ListView):
 class FriendDetail(DetailView):
     model = Friend
     
+    #GGGGGG
